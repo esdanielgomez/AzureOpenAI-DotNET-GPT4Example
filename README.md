@@ -1,1 +1,1 @@
-# AzureOpenAI-DotNET-GPT4Example
+# Azure OpenAI GPT-4 from .NET
